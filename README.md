@@ -1,3 +1,3 @@
 # newgit
 This is my first git repository
-Author - Balla Dheeraj
+Author - Balla Dheeraj (nah)
